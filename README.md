@@ -1,7 +1,8 @@
 ## Hi there 👋
 
 I'm Matthias Müller, a senior engineer and architect from Switzerland. I'm mostly working on the Microsoft tech stack (.NET, Azure, Azure DevOps, you name it...), but also love some Angular / Typescript.
-I'm a clean-code, DDD and automation enthusiast, valuing long-term quality and domain-understanding over short-term progress. Hence, most of my repositories are reusable components to abstract low-level layers, improve code-quality or can be used as templates for design patterns.
+I'm a clean-code, DDD and automation enthusiast, valuing long-term quality and domain-understanding over short-term progress.
+Hence, most of my repositories are reusable components to abstract low-level layers, improve code-quality or are implementations of design patterns.
 
 ## Where to find me
 
