@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Matthias Müller, a senior engineer and architect from Switzerland. I'm mostly working on the Microsoft stack (.NET, Azure, Azure DevOps, you name it...), but also love some Angular / Typescript.
+I'm Matthias Müller, a senior engineer and architect from Switzerland. I'm mostly working on the Microsoft tech stack (.NET, Azure, Azure DevOps, you name it...), but also love some Angular / Typescript.
 
 ## Where to find me
 
